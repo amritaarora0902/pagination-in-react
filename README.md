@@ -1,6 +1,6 @@
 - get the product from api
 - display products
-- display 10 products per page (use slice from page*10-10 to page*10)
+- display n products per page 
 - add buttons for prev and next page
-- display page number for products.length/10
+- display page number for products.length/n
 - on click of page number change page and on click on prev and next change page-1 or page+1
